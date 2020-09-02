@@ -8,3 +8,6 @@ https://www.cloudwards.net/clone-your-hard-drive/
 
 Clone HDD to smaller SSD
 https://forum.macrium.com/21582/Cloning-to-a-smaller-SSD
+
+Step by step using 
+https://www.cloudwards.net/clone-your-hard-drive/
