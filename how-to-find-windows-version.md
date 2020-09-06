@@ -36,8 +36,6 @@ If an "install.esd" file exists under the "X:\Sources" folder, then open an elev
 2. If you want to find out, if the Windows ISO, DVD or USB contains contains multiple versions of Windows, just give the above command without the "/Index:1" switch or change the “/index:1” to “/index:2” or “/index:2”  or “/index:3” or “/index:4”
 
 
-
-3.
-
-4.
+Source:
+<https://www.wintips.org/how-to-find-windows-10-version-edition-build-from-windows-iso-dvd-usb/>
 
