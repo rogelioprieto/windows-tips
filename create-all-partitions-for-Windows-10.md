@@ -26,9 +26,11 @@ diskpart
 list disk
 select disk 0
 list partition
+
 select partition X
 (Where x is the number of the recovery partition to be removed and unlocked its space. Be careful with the number of this partition, as   wrong number may get data wipes off.)
-  delete partition override 
+
+delete partition override 
 ```
 
 2. STEP TWO. CREATE PARTIONS (except recovery partition)
