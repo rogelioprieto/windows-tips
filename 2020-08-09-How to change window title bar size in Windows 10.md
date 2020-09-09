@@ -3,20 +3,25 @@
 ## Problem: 
 Window title bar is so small but Windows 10 interface doesn't have an option to increase title bar size.
 
-We need to change this:
+We need to change this:  
 ![https://i.stack.imgur.com/CQj6Y.png](https://i.stack.imgur.com/CQj6Y.png)
 
 
 ## Solution:
-1. Change the registry at ```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
+1. Change the registry at  
+```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
 
 2. For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
 For example, to set the title bar height to ```18px```, set the ```CaptionHeight``` value to ```-15*18```, resulting in ```-270```.
 
-I recommend set ```-405```.  I got this value from: ```-15*27=405```.
+I recommend set ```-405```.  I got this value using ```27``` size: ```-15*27=405```.
 
 
-3. (optional). I you want to increase  
+3. (optional). I you want to increase ```ScrollWidth``` set value to ```-330```. I got this value using ```22``` size.
+
+
+RPA-TODO--------DELETE THIS:
+and ```ScrollHeight```.
 
 
 ## Source:  
