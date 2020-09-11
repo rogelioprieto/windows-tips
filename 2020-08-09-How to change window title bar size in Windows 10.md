@@ -15,6 +15,7 @@ We need to change this:
 
 2. Set this values:
 For ```CaptionWidth``` set ```-405```.
+
 For ```CaptionHeight``` set ```-405```.
 
 **Explanation:**
