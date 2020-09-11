@@ -8,8 +8,7 @@ Convert into a local account.
 1. Open ```Settings```.
 2. Click on ```Accounts```.
 3. Click on ```Your info```.
-
-Click the ```Sign in with a local account instead``` option.
+4. Click the ```Sign in with a local account instead``` option.
 
 
 Source:  
