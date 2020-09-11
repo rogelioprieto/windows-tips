@@ -18,7 +18,7 @@ For ```CaptionWidth``` set ```-405```.
 For ```CaptionHeight``` set ```-405```.
 
 **Explanation:**
-For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
+The metrics used is *Twip* (abbreviated from "twentieth of a point") defined as 1/20 of a typographical point. For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
 For example, to set the title bar height to ```18px```, set the ```CaptionHeight``` value to ```-15*18```, resulting in ```-270```.
 
 I recommend set ```-405```.  I got this value using ```27px``` size: ```-15*27=405```.
@@ -31,5 +31,10 @@ RPA-TODO--------DELETE THIS:
 and ```ScrollHeight```.
 
 
+
+
 ## Source:  
 <https://superuser.com/questions/952395/how-to-change-window-title-bar-size-in-windows-10>
+
+## Notes:
+Twips are screen-independent units to ensure that the proportion of screen elements are the same on all display systems. A twip is defined as being 1/1440 of an inch (approximately 0.0176 mm). Reference: <https://en.wikipedia.org/wiki/Twip>
