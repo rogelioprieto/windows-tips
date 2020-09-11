@@ -17,7 +17,7 @@ We need to change this:
 For ```CaptionWidth``` set ```-405```.
 For ```CaptionHeight``` set ```-405```.
 
-### Explanation:
+**Explanation:**
 For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
 For example, to set the title bar height to ```18px```, set the ```CaptionHeight``` value to ```-15*18```, resulting in ```-270```.
 
