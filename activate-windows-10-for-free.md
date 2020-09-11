@@ -45,3 +45,4 @@ The last step is to activate your Windows using the command ```slmgr /ato```.
 
 ## Source: 
 <https://msguides.com/microsoft-software-products/2-ways-activate-windows-10-free-without-software.html>
+<https://www.minitool.com/news/how-to-activate-windows-10-cmd.html>
