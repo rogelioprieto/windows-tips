@@ -13,7 +13,7 @@ We need to change this:
 1. Change the registry at  
 ```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
 
-2. Set this values:
+2. Set this values:  
 For ```CaptionWidth``` set ```-405```.
 
 For ```CaptionHeight``` set ```-405```.
