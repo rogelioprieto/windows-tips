@@ -13,7 +13,12 @@ We need to change this:
 1. Change the registry at  
 ```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
 
-2. For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
+2. Set this values:
+For ```CaptionWidth``` set ```-405```.
+For ```CaptionHeight``` set ```-405```.
+
+### Explanation:
+For ```CaptionHeight``` and ```CaptionWidth```, use the following formula: ```-15*desired height in pixels```.  
 For example, to set the title bar height to ```18px```, set the ```CaptionHeight``` value to ```-15*18```, resulting in ```-270```.
 
 I recommend set ```-405```.  I got this value using ```27px``` size: ```-15*27=405```.
