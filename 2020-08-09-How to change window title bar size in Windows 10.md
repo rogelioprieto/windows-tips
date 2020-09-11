@@ -8,6 +8,8 @@ We need to change this:
 
 
 ## Solution:
+
+1. Open Windows registry, press ```Windows key + R``` and type ```regedit```
 1. Change the registry at  
 ```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
 
