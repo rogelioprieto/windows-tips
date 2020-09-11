@@ -14,8 +14,7 @@ We need to change this:
 ```HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics```.
 
 2. Set this values:  
-For ```CaptionWidth``` set ```-405```.
-
+For ```CaptionWidth``` set ```-405```.  
 For ```CaptionHeight``` set ```-405```.
 
 **Explanation:**
