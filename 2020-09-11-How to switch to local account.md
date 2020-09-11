@@ -5,11 +5,11 @@ I have a Microsoft account on Windows 10 but I don't need it.
 Convert into a local account.
 
 ## Steps:
-1. Open ´´´Settings´´´.
-2. Click on ´´´Accounts´´´.
-3. Click on ´´´Your info´´´.
+1. Open ```Settings```.
+2. Click on ```Accounts```.
+3. Click on ```Your info```.
 
-Click the ´´´Sign in with a local account instead´´´ option.
+Click the ```Sign in with a local account instead``` option.
 
 
 Source:
