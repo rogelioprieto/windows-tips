@@ -12,5 +12,5 @@ Convert into a local account.
 Click the ```Sign in with a local account instead``` option.
 
 
-Source:
+Source:  
 <https://www.windowscentral.com/how-switch-local-account-microsoft-account-windows-10>
