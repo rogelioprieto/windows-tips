@@ -14,3 +14,5 @@
  shell:startup
  ```
  
+ ## Source
+ <https://answers.microsoft.com/en-us/windows/forum/windows_10-start/autostart-a-program-in-windows-10/940682ae-8872-47ce-964d-8b1e820d9a5a>
