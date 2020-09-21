@@ -34,7 +34,8 @@ and ```ScrollHeight```.
 
 
 ## Source:  
-<https://superuser.com/questions/952395/how-to-change-window-title-bar-size-in-windows-10>
+<https://superuser.com/questions/952395/how-to-change-window-title-bar-size-in-windows-10>  
+<https://www.tenforums.com/tutorials/19150-change-title-bar-text-size-windows-10-a.html>
 
 ## Notes:
 Twips are screen-independent units to ensure that the proportion of screen elements are the same on all display systems. A twip is defined as being 1/1440 of an inch (approximately 0.0176 mm). Reference: <https://en.wikipedia.org/wiki/Twip>
